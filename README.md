@@ -8,7 +8,7 @@ The app uses the Joke API to fetch jokes.
 
 ##usage
 
-To use the app, simply enter a keyword (optional) and click the "Generate Joke" button. A new joke will be displayed on the screen.
+To use the app, simply click the "Generate Joke" button. A new joke will be displayed on the screen.
 
 ###time taken
 
